@@ -1,1 +1,1 @@
-# Scramble
+The game of scramble.
